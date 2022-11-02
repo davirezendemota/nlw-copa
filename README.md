@@ -1,5 +1,6 @@
 * Prisma
-* 
+* Expo
+* NativeBase
 
 
 ## NLW COPA
